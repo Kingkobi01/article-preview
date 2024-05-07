@@ -8,7 +8,7 @@ const Card = () => {
     <article className="z-10 flex md:flex-row flex-col bg-white shadow-md mb-[2rem] rounded-lg w-[90%] max-w-[45.625rem]">
       <img
         className="mb-[2rem] md:mb-0 md:rounded-s-lg w-full md:w-[40%] object-center object-cover"
-        src="/images/drawers.jpg"
+        src="./images/drawers.jpg"
         alt="Drawers"
       />
       <div className="space-y-[1.25rem] md:p-[2rem] pt-[1.75rem] w-full md:w-[60%] text-[0.875rem]">
@@ -32,7 +32,7 @@ const Card = () => {
             <div className="flex justify-center items-center gap-4">
               <img
                 className="rounded-full w-20"
-                src="/images/avatar-michelle.jpg"
+                src="./images/avatar-michelle.jpg"
                 alt="Michelle"
               />
               <div className="text-neutral-400">
